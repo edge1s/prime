@@ -1,4 +1,5 @@
 ![Prime logo](./doc/logo.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedge1s%2Fprime.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fedge1s%2Fprime?ref=badge_shield)
 
 The "Prime" project is a boilerplate for distributed applications. Micro-services are written in Javascript with Hydra Micro-services framework. The client side is written in React, Redux with Single Spa library.
 
@@ -24,3 +25,7 @@ Stay tuned!
 - [ ] Add traffic encryption with client for GDPR policy
 - [ ] Build new interface for hydra-router with more information about services
 - [ ] Add PM2 for starting all micro-services
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedge1s%2Fprime.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fedge1s%2Fprime?ref=badge_large)
